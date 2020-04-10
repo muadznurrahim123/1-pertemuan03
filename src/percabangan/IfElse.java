@@ -1,6 +1,6 @@
 package percabangan;
 
-public class IfElse {
+public class Ifelse {
     public static void main(String[] args) {
         double totalBelanja = 53000;
         double uangDiDompet = 25000;
